@@ -1,0 +1,7 @@
+{
+  "name": "Kviz_Projekt",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
